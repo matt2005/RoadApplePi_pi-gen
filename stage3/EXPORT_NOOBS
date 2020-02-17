@@ -1,2 +1,2 @@
-NOOBS_NAME="Crankshaft"
-NOOBS_DESCRIPTION="A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit"
+NOOBS_NAME="RoadApplePi"
+NOOBS_DESCRIPTION="RoadApplePi is a simple to install system for your Raspberry Pi designed to record dashcam videos and engine information from your car in real-time, and then make it all accessable from an easy-to-use Web App that can be viewed on your smartphone or computer"
